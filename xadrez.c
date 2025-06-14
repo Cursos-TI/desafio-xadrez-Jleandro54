@@ -302,3 +302,17 @@ case 8:
 }
 }
 
+/*
+  Aqui esta o uso da recursividade do desafio Mestre, nao quis substituir 
+ o codigo anterio nem sei como cria outro codigo no mesmo desafio sem subistituir o anterior.
+
+    for (int i = 0; i < 1; i++){
+        for (int j = 0; j < 2 ; j++){
+            printf("Cavalo Frente\n");
+    }
+            printf("Cavalo Direita\n");
+    }
+
+
+
+*/
