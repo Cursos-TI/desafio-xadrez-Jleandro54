@@ -294,7 +294,7 @@ case 8:
     }
     break;
  default:
-    if(posicaoRainha < 0 || posicaoRainha > 8){
+    if(posicaoCavalo < 0 || posicaoCavalo > 8){
            printf("Opção Invalida!!!");}
             break;
 
